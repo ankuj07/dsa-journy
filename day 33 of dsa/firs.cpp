@@ -1,6 +1,3 @@
-// bilkul bhai 😎🔥
-// GitHub me daalne ke liye “String Medium + Hard Questions Practiced” ka ekdum professional update ready hai ✅
-// Direct paste kar dena README.md me.
 
 // 🔥 String (Medium + Hard) – Questions Practiced
 
@@ -97,4 +94,5 @@
 // Two Pointer + Hashing
 
 // Pattern matching techniques
+
 
